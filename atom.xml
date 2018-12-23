@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>另一个World</title>
+  
   <subtitle>生活一忙碌,就顾不得悲观</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -22,8 +23,6 @@
     <published>2016-04-24T13:28:19.000Z</published>
     <updated>2016-04-24T16:41:31.000Z</updated>
     
-    <content type="html"></content>
-    
     <summary type="html">
     
     </summary>
@@ -38,13 +37,15 @@
     <published>2016-04-03T16:51:41.000Z</published>
     <updated>2016-04-03T17:10:08.000Z</updated>
     
-    <content type="html">&lt;p&gt;这是一篇测试文章，更多内容，待续。&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章，更多内容，待续。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;这是一篇测试文章，更多内容，待续。&lt;/p&gt;
+      
+      
+        &lt;p&gt;这是一篇测试文章，更多内容，待续。&lt;/p&gt;
 
+      
     
     </summary>
     
